@@ -2,5 +2,8 @@
 ALX
 #!/bin/bash
 ALX School
+<<<<<<< HEAD
 #!/bin/bash
 ALX School is so cool!
+=======
+>>>>>>> update_script
